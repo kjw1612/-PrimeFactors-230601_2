@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5", "Project5\Project5.vcxproj", "{D0DB19E9-3087-4A5C-8B5C-AA550F393644}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample-Test1", "Sample-Test1\Sample-Test1.vcxproj", "{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{04D44404-9DDB-4F3B-9E17-EF5B30A9AE29}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Debug|x64.ActiveCfg = Debug|x64
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Debug|x64.Build.0 = Debug|x64
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Debug|x86.Build.0 = Debug|Win32
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Release|x64.ActiveCfg = Release|x64
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Release|x64.Build.0 = Release|x64
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Release|x86.ActiveCfg = Release|Win32
+		{D0DB19E9-3087-4A5C-8B5C-AA550F393644}.Release|x86.Build.0 = Release|Win32
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Debug|x64.ActiveCfg = Debug|x64
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Debug|x64.Build.0 = Debug|x64
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Debug|x86.Build.0 = Debug|Win32
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Release|x64.ActiveCfg = Release|x64
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Release|x64.Build.0 = Release|x64
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Release|x86.ActiveCfg = Release|Win32
+		{D0FCA59D-FBD7-4B7B-85F9-A24FBD36285C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578AA4C1-E045-492E-BA36-3937A9B8D895}
+	EndGlobalSection
+EndGlobal
